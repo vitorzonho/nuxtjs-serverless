@@ -2,8 +2,8 @@
   <main>
     <h1>Home page</h1>
     <NuxtLink to="/about">
-      About (internal link that belongs to the Nuxt App)
+     Link sobre.
     </NuxtLink>
-    <a href="https://nuxtjs.org">External Link to another page</a>
+    <a href="https://nuxtjs.org">Link externo</a>
   </main>
 </template>
