@@ -1,0 +1,24 @@
+{
+  "name": "nuxtjs-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorzonho/nuxtjs-serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorzonho/nuxtjs-serverless/issues"
+  },
+  "homepage": "https://github.com/vitorzonho/nuxtjs-serverless#readme",
+  "dependencies": {
+    "nuxt": "^2.14.9",
+    "vue": "^2.6.12"
+  }
+}
