@@ -1,6 +1,6 @@
 <template>
   <main>
-    <h1>Home page</h1>
+    <h1>Home page 2</h1>
     <NuxtLink to="/about">
      Link sobre.
     </NuxtLink>
